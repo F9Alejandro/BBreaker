@@ -4,7 +4,9 @@
 
 # **Error Report**
 **Plugin Version:** 
+
 **Server Version:** 
+
 **Server Name:** 
 <!-- If you have anymore issues go to this discord server: https://discord.gg/mfSfJAa -->
 
@@ -20,4 +22,5 @@
 **Stack-trace**
 <!-- Stack-trace from the console -->
 ```
+
 ```
